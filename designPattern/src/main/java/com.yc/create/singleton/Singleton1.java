@@ -1,8 +1,13 @@
 package create.singleton;
 
+
 public class Singleton1 {
     volatile static Singleton1 singleton1 = null;
 
+    /***
+     *
+     * @return
+     */
     public static Singleton1 getInstance() {
         if (singleton1 == null) {
             synchronized (Singleton1.class) {
