@@ -1,4 +1,4 @@
-package action.template;
+package com.yc.action.template;
 
 /**
  * @Author yucheng

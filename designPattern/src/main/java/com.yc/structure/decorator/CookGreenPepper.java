@@ -1,4 +1,4 @@
-package structure.decorator;
+package com.yc.structure.decorator;
 
 /**
  * @Author yucheng

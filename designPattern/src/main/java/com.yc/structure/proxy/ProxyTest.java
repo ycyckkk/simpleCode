@@ -1,4 +1,4 @@
-package structure.proxy;
+package com.yc.structure.proxy;
 
 /**
  * 对原来的类进行一个增作用

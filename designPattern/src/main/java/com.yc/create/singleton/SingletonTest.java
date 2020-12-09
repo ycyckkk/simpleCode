@@ -1,4 +1,4 @@
-package create.singleton;
+package com.yc.create.singleton;
 
 public class SingletonTest {
     public static void main(String[] args) {

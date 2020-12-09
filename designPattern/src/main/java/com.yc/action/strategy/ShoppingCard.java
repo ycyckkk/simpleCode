@@ -1,4 +1,4 @@
-package action.strategy;
+package com.yc.action.strategy;
 
 /**
  * 购买3000送购物卡

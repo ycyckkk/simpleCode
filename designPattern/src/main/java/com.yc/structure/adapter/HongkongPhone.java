@@ -1,4 +1,4 @@
-package structure.adapter;
+package com.yc.structure.adapter;
 
 /**
  * @Author yucheng

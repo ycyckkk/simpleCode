@@ -1,4 +1,4 @@
-package action.strategy;
+package com.yc.action.strategy;
 
 /**
  * 促销活动
