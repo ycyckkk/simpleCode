@@ -1,4 +1,4 @@
-package action.responsibilitychain;
+package com.yc.action.responsibilitychain;
 
 /**
  * @Author yucheng
