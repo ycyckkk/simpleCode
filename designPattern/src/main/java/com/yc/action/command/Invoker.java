@@ -12,7 +12,7 @@ public class Invoker {
     int slotNum = 7;
 
     public Invoker() {
-        this.onCommands = new Command[slotNum];
+        this.onCommands = new Command[slotNum ];
         this.offCommands = new Command[slotNum];
     }
 
