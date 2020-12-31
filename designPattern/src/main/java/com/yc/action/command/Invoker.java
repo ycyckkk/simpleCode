@@ -16,7 +16,7 @@ public class Invoker {
         this.offCommands = new Command[slotNum];
     }
 
-    public void setOnCommand(Command command, int slot) {
+    public void setOnCommand(Command command, int slot ) {
         onCommands[slot] = command;
     }
 
